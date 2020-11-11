@@ -1,0 +1,5 @@
+job:
+  script: echo Do something
+
+triger-pipelines:
+  trigger: example/app
